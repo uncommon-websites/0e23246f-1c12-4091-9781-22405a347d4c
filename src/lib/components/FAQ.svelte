@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "How much time do I need to commit each week?", answer: "Mastermind is designed for busy professionals. You only need to commit 5 hours per week to stay informed and implement our proven strategies. We handle the research so you can focus on execution." },
+    { question: "What makes Mastermind's strategies proven?", answer: "Our strategies are based on proven 100x returns in crypto, AI, and robotics markets. We focus on capturing the $3 trillion wealth transfer happening now, using tested approaches that have generated seven-figure wealth for our members." },
+    { question: "Do I need prior investment experience?", answer: "While Mastermind is designed for professionals with capital, you don't need to be an investment expert. Our personalized guidance walks you through each strategy, making sophisticated investing accessible even if you lack time for deep research." },
+    { question: "What's included in the membership?", answer: "Members get personalized portfolio guidance, weekly market insights, access to proven 100x strategies, and entry to our exclusive community of successful professionals and millionaire members. Everything you need to scale your wealth in crypto, AI, and robotics." },
+    { question: "How is this different from other investment services?", answer: "Unlike generic investment advice or time-consuming research platforms, Mastermind delivers done-for-you portfolio guidance specifically for busy professionals. We focus on high-growth opportunities in crypto, AI, and robotics with just a 5-hour weekly commitment." },
+    { question: "Can I start with any amount of capital?", answer: "Mastermind is designed for professionals with capital ready to scale. While there's no strict minimum, our strategies work best for those prepared to make meaningful investments in high-growth opportunities." },
+    { question: "How do I get started?", answer: "Simply join Mastermind to get immediate access to our community, personalized guidance, and proven strategies. You'll start receiving weekly insights and portfolio recommendations right away." }
   ];
 
   let openIndex: number | null = null;
